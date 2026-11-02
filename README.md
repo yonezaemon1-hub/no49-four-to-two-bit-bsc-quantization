@@ -10,6 +10,11 @@
 
 ## Publication files
 
+**Zenodo Preprint:** [10.5281/zenodo.23875138](https://zenodo.org/records/23875138)  
+**GitHub Release:** [v1.0](https://github.com/yonezaemon1-hub/no49-four-to-two-bit-bsc-quantization/releases/tag/v1.0)
+
+The published PDF and ZIP were downloaded from both services after publication; all four SHA256 comparisons with the original files passed.
+
 - [English preprint PDF](No49_v1.0_PREPRINT_20261102.pdf)
 - [Reproducibility ZIP](No49_v1.0_REPRODUCIBILITY_20261102.zip)
 - [SHA256 checksums](SHA256SUMS.txt)
