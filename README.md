@@ -62,3 +62,10 @@ The manuscript and proof were developed with AI assistance under the author's di
 The audited mathematical code, frozen certificates and evidence data in the ZIP have not been changed. Historical files inside `audit_v0.2_frozen/` retain their original HOLD status because they record the earlier preparation stage; the author subsequently authorized this v1.0 publication.
 
 Copyright (c) 2026 Ryutaro Yonezu. **All rights reserved**.
+
+## Author correspondence (metadata update, 2026-11-12)
+
+**Ryutaro Yonezu — Independent Researcher**  
+Research correspondence: **yonezaemon1+research@gmail.com**
+
+This contact-information addition does not revise any mathematical claims, frozen verification files, published preprint PDF, release assets, DOI, or existing SHA256 checksums.
